@@ -1,12 +1,10 @@
-# For PCBs designed using KiCad: https://www.kicad.org/
-# Format documentation: https://kicad.org/help/file-formats/
-
 # Temporary files
 *.000
 *.bak
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
+*.kicad_sch_old
 *-backups
 *.kicad_prl
 *.sch-bak
@@ -16,6 +14,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*.lck
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -24,6 +23,10 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
+# macOS
+*.DS_Store
+
+# KiCad JLCPCB Tool
+/jlcpcb/*
+!/jlcpcb/project.db
+

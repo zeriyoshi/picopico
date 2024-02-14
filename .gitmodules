@@ -1,0 +1,15 @@
+[submodule "third_party/labtroll/KiCad-DesignRules"]
+	path = third_party/labtroll/KiCad-DesignRules
+	url = https://github.com/labtroll/KiCad-DesignRules.git
+[submodule "third_party/zeriyoshi/xtrapico"]
+	path = third_party/zeriyoshi/xtrapico
+	url = https://github.com/zeriyoshi/xtrapico.git
+[submodule "third_party/zeriyoshi/zeriparrot.pretty"]
+	path = third_party/zeriyoshi/zeriparrot.pretty
+	url = https://github.com/zeriyoshi/zeriparrot.pretty.git
+[submodule "third_party/koktoh/BrownSugar_KBD_KiCad_Library"]
+	path = third_party/koktoh/BrownSugar_KBD_KiCad_Library
+	url = https://github.com/koktoh/BrownSugar_KBD_KiCad_Library.git
+[submodule "third_party/RetroScaler/RP2040-PICO-BOOT"]
+	path = third_party/RetroScaler/RP2040-PICO-BOOT
+	url = https://github.com/RetroScaler/RP2040-PICO-BOOT.git
