@@ -28,7 +28,7 @@
   (pad "1" smd rect (at 1.327915 0) (size 1.5 3.320015) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c1c5b071-6704-453d-ad98-f77111cb07fd))
   (pad "2" smd rect (at -1.327915 0) (size 1.5 3.320015) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 332b7e8f-30ff-48d9-9a03-8186ba102d8d))
   (model "${KIPRJMOD}/third_party/JLC2KiCad_lib/footprint/packages3d/IND-SMD_L3.0-W3.0.step"
-    (offset (xyz -912.8632863 685.7999897 0))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )

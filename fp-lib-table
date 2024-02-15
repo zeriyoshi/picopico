@@ -2,6 +2,6 @@
   (version 7)
   (lib (name "zeriparrot")(type "KiCad")(uri "${KIPRJMOD}/third_party/zeriyoshi/zeriparrot.pretty")(options "")(descr ""))
   (lib (name "BrownSugar_KBD")(type "KiCad")(uri "${KIPRJMOD}/third_party/koktoh/BrownSugar_KBD_KiCad_Library/BrownSugar_KBD/BrownSugar_KBD.pretty")(options "")(descr ""))
-  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/third_party/ai03-2725/Type-C.pretty")(options "")(descr ""))
   (lib (name "JLC2KiCadLib")(type "KiCad")(uri "${KIPRJMOD}/third_party/JLC2KiCad_lib/footprint")(options "")(descr ""))
+  (lib (name "XTRAPI_JLC2KiCadLib")(type "KiCad")(uri "${KIPRJMOD}/third_party/zeriyoshi/xtrapico/third_party/JLC2KiCad_lib/footprint")(options "")(descr ""))
 )

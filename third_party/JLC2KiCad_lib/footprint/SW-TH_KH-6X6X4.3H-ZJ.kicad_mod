@@ -46,7 +46,7 @@
   (pad "3" thru_hole circle (at -3.5 -1.249936) (size 2.1 2.1) (drill 1.300025) (layers "*.Cu" "*.Mask") (tstamp fe999d30-5b24-4f5c-b8fc-d4b901f7060f))
   (pad "4" thru_hole circle (at 3.5 -1.249936) (size 2.1 2.1) (drill 1.300025) (layers "*.Cu" "*.Mask") (tstamp 4ca56c7f-cd4e-46e7-b0d2-e2d838200173))
   (model "${KIPRJMOD}/third_party/JLC2KiCad_lib/footprint/packages3d/SW-TH_KH-6X6X4.3H-ZJ.step"
-    (offset (xyz 0 -1.349934 3))
+    (offset (xyz 0 -1.9 3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
