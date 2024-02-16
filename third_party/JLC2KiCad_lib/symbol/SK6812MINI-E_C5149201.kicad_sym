@@ -6,7 +6,7 @@
     (property "Value" "SK6812MINI-E_C5149201" (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "JLC2KiCadLib:LED-SMD_L3.2-W2.8-TR" (at 0 -10.16 0)
+    (property "Footprint" "BrownSugar_KBD:RGBLED_SK6812MINI-E" (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://img.jlc.com/pdf/applyPasteComponent/2021-12-21/757506A/9376501e0a854f2f817213720825c541/WS2812B-3528%E5%B9%BB%E5%BD%A9%E5%8F%8D%E8%B4%B4.pdf" (at -2.286 0.127 0)
